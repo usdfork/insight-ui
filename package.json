@@ -2,7 +2,7 @@
   "name": "insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the zcash network and build your own services with it.",
   "version": "1.1.0",
-  "repository": "git://github.com/ZECmate/insight-ui.git",
+  "repository": "git://github.com/usdfork/insight-ui.git",
   "contributors": [
     {
       "name": "Under"
@@ -44,9 +44,9 @@
     "build": "bower install && grunt compile"
   },
   "bugs": {
-    "url": "https://github.com/ZECmate/insight-ui/issues"
+    "url": "https://github.com/usdfork/insight-ui/issues"
   },
-  "homepage": "https://github.com/ZECmate/insight-ui",
+  "homepage": "https://github.com/usdfork/insight-ui",
   "license": "MIT",
   "keywords": [
     "insight",
